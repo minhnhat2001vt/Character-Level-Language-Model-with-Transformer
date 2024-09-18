@@ -33,3 +33,7 @@ This project showcases how a Transformer model can be applied to text generation
 
 ## Conclusion:
 This project demonstrates how to implement and train a character-level language model using the powerful Transformer architecture, making it capable of generating creative, coherent text based on learned patterns from a given corpus.
+
+## Acknowledgement
+- **Original tutorial**: Karpathy, A. (2023, March 19). Let's build GPT: from scratch, in code, spelled out [Video]. YouTube. https://www.youtube.com/watch?v=kCc8FmEb1nY
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention Is All You Need. Advances in Neural Information Processing Systems, 30, 5998–6008. https://arxiv.org/abs/1706.03762
